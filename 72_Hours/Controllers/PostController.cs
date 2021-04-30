@@ -39,7 +39,7 @@ namespace _72_Hours.Controllers
         {
             var pService = CreatePostService();
 
-            if (!pService.DeleteCategory(id))
+            if (!pService.DeletePost(id))
                 return InternalServerError();
 
             return Ok();

@@ -12,7 +12,24 @@ namespace _72_Hours.Controllers
     {
         public IHttpActionResult Get()
         {
-            var cservice = CreateCommentService();
-            var 
+            var cService = CreateCommentService();
+            var comments = cService.GetComments();
+            return Ok(comments)
+        }
+        public IHttpActionResult Post(CommentCreate comment)
+        {
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
+            var cService = CreateCommentService();
+            return InternalServerErrror();
+
+            return Ok();
+        }
+        public IHttpActionResult Get(int id)
+        {
+            var cService = CreateCategoryService();
+            var comment = cService.GetComment.ById(id);
+       
         }
     }
