@@ -1,0 +1,2 @@
+C:\Users\Greg\Desktop\ElevenFiftyProjects\72_Hours\72_Hours\obj\Debug\72_Hours.csprojAssemblyReference.cache
+C:\Users\Greg\Desktop\ElevenFiftyProjects\72_Hours\72_Hours\obj\Debug\72_Hours.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+C:\Users\Greg\Desktop\ElevenFiftyProjects\72_Hours\72_Hours.Models\bin\Debug\72_Hours.Models.dll.config
+C:\Users\Greg\Desktop\ElevenFiftyProjects\72_Hours\72_Hours.Models\bin\Debug\72_Hours.Models.dll
+C:\Users\Greg\Desktop\ElevenFiftyProjects\72_Hours\72_Hours.Models\bin\Debug\72_Hours.Models.pdb
+C:\Users\Greg\Desktop\ElevenFiftyProjects\72_Hours\72_Hours.Models\bin\Debug\EntityFramework.dll
+C:\Users\Greg\Desktop\ElevenFiftyProjects\72_Hours\72_Hours.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Greg\Desktop\ElevenFiftyProjects\72_Hours\72_Hours.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Greg\Desktop\ElevenFiftyProjects\72_Hours\72_Hours.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Greg\Desktop\ElevenFiftyProjects\72_Hours\72_Hours.Models\bin\Debug\EntityFramework.xml
+C:\Users\Greg\Desktop\ElevenFiftyProjects\72_Hours\72_Hours.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Greg\Desktop\ElevenFiftyProjects\72_Hours\72_Hours.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Greg\Desktop\ElevenFiftyProjects\72_Hours\72_Hours.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Greg\Desktop\ElevenFiftyProjects\72_Hours\72_Hours.Models\obj\Debug\72_Hours.Models.csprojAssemblyReference.cache
+C:\Users\Greg\Desktop\ElevenFiftyProjects\72_Hours\72_Hours.Models\obj\Debug\72_Hours.Models.csproj.CoreCompileInputs.cache
+C:\Users\Greg\Desktop\ElevenFiftyProjects\72_Hours\72_Hours.Models\obj\Debug\72_Hours.Models.csproj.CopyComplete
+C:\Users\Greg\Desktop\ElevenFiftyProjects\72_Hours\72_Hours.Models\obj\Debug\72_Hours.Models.dll
+C:\Users\Greg\Desktop\ElevenFiftyProjects\72_Hours\72_Hours.Models\obj\Debug\72_Hours.Models.pdb

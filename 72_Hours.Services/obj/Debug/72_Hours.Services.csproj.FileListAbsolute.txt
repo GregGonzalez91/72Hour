@@ -1,0 +1,16 @@
+C:\Users\Greg\Desktop\ElevenFiftyProjects\72_Hours\72_Hours.Services\bin\Debug\72_Hours.Services.dll.config
+C:\Users\Greg\Desktop\ElevenFiftyProjects\72_Hours\72_Hours.Services\bin\Debug\72_Hours.Services.dll
+C:\Users\Greg\Desktop\ElevenFiftyProjects\72_Hours\72_Hours.Services\bin\Debug\72_Hours.Services.pdb
+C:\Users\Greg\Desktop\ElevenFiftyProjects\72_Hours\72_Hours.Services\bin\Debug\EntityFramework.dll
+C:\Users\Greg\Desktop\ElevenFiftyProjects\72_Hours\72_Hours.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Greg\Desktop\ElevenFiftyProjects\72_Hours\72_Hours.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Greg\Desktop\ElevenFiftyProjects\72_Hours\72_Hours.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Greg\Desktop\ElevenFiftyProjects\72_Hours\72_Hours.Services\bin\Debug\EntityFramework.xml
+C:\Users\Greg\Desktop\ElevenFiftyProjects\72_Hours\72_Hours.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Greg\Desktop\ElevenFiftyProjects\72_Hours\72_Hours.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Greg\Desktop\ElevenFiftyProjects\72_Hours\72_Hours.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Greg\Desktop\ElevenFiftyProjects\72_Hours\72_Hours.Services\obj\Debug\72_Hours.Services.csprojAssemblyReference.cache
+C:\Users\Greg\Desktop\ElevenFiftyProjects\72_Hours\72_Hours.Services\obj\Debug\72_Hours.Services.csproj.CoreCompileInputs.cache
+C:\Users\Greg\Desktop\ElevenFiftyProjects\72_Hours\72_Hours.Services\obj\Debug\72_Hours.Services.csproj.CopyComplete
+C:\Users\Greg\Desktop\ElevenFiftyProjects\72_Hours\72_Hours.Services\obj\Debug\72_Hours.Services.dll
+C:\Users\Greg\Desktop\ElevenFiftyProjects\72_Hours\72_Hours.Services\obj\Debug\72_Hours.Services.pdb
