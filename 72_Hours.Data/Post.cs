@@ -22,7 +22,7 @@ namespace _72_Hours.Data
         [Required]
         public string Text { get; set; }
 
-        [ForeignKey(nameof(Comment))]
+        
         public virtual List<Comment> Comments { get; set; }
 
         public virtual List<Like> Likes { get; set; }
