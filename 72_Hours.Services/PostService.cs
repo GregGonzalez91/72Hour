@@ -45,7 +45,7 @@ namespace _72_Hours.Services
             {
                 var query =
                     ctx
-                    .NPosts
+                    .Posts
                     .Where(e => e.AuthorId == _authorId)
                     .Select(
                         e =>
