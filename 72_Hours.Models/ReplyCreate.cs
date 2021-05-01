@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace _72_Hours.Models
 {
-    public class LikeDetail
+    public class ReplyCreate
     {
-        
+        public int Id { get; set; }
+        public string Content { get; set; }
+        public Guid OwnerId { get; set; }
     }
 }
