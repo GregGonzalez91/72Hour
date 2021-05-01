@@ -26,8 +26,6 @@ namespace _72_Hours.Services
             var entity = new Like()
             {
                 OwnerId = _ownerId,
-                Title = model.Title,
-                Content = model.Content,
                 CreatedUtc = DateTimeOffset.Now
             };
 
