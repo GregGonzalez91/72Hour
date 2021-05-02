@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace _72_Hours.Services
 {
-    class CommentService
+   public class CommentService
     {
 
         // GuidAuthorId (Comment) 
